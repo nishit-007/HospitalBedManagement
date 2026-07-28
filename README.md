@@ -42,7 +42,7 @@ Synthetic dataset created for analysis containing:
 | Admissions | 6,000 |
 | Doctors | 50 |
 | Departments | 10 |
-| Daily Occupancy | 365 Days |
+
 # 📈 Dashboard Pages
 
 ## 1️⃣ Executive Overview
